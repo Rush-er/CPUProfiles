@@ -1,7 +1,7 @@
 # CPUProfiles
 Messing around with cpu profiles 
 
-_Original documentation:_ https://tinyurl.com/yb2n8z5s
+**Original documentation:** https://tinyurl.com/yb2n8z5s
 <details> 
   <summary>INTERACTIVE GOVERNOR</summary>
 
