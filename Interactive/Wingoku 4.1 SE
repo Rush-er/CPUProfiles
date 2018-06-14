@@ -47,3 +47,4 @@
 /sys/devices/system/cpu/cpu0/core_ctl/not_preferred 1
 /sys/devices/system/cpu/cpu0/core_ctl/always_online_cpu 1 1 1 1
 /sys/devices/system/cpu/cpu4/core_ctl/always_online_cpu 0 0 0 0
+
